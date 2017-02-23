@@ -1,2 +1,2 @@
 # hello-world
-This is a practice repository.
+This is a draft repository.
